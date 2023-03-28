@@ -1,6 +1,6 @@
-# BOOK-SEARCH-CHALLENGE
+# BOOK-SEARCH-APP
 
-For this challenge, starter code that has a fully-functioning Google Books API built with a RESTful API must be refactored to use a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. 
+For this project, starter code that has a fully-functioning Google Books API built with a RESTful API must be refactored to use a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
 # USER STORY
 
